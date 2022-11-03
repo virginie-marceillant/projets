@@ -5,6 +5,7 @@
  <option value= "HOMME">HOMME</option>
  <option value= "FEMME">FEMME</option>
  <option value= "INCONNU">INCONNU</option>
+ <option value="transgenre">transgenre"</option>
 </select> <br>
 
 Nom: <input type = "text" name="nom"><br>
@@ -19,6 +20,7 @@ Paypal: <input type="radio" name="Paypal" value="Paypal"><br>
 Conditions d'utilisation : <input type = "checkbox" name="CU" value= "CU"><br>
 
 <input type="submit" name="OK" value ="OK">
+
 
 
 
