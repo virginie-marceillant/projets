@@ -5,7 +5,7 @@
  <option value= "HOMME">HOMME</option>
  <option value= "FEMME">FEMME</option>
  <option value= "INCONNU">INCONNU</option>
- <option value="transgenre">transgenre"</option>
+ <option value="foire">transgenre</option>
 </select> <br>
 
 Nom: <input type = "text" name="nom"><br>
